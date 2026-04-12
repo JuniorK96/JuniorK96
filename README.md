@@ -37,5 +37,5 @@ behavioural differences between casual riders and annual members.
 - Bachelor of Business Administration — Trine University, USA (2017)
 
 ## 📫 Let's connect
-- 💼 [LinkedIn](linkedin.com/in/junior-k-473700155)
+- 💼 [LinkedIn](https://www.linkedin.com/in/junior-k-473700155)
 - 📧 Open to work — feel free to reach out!
