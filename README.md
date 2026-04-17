@@ -20,7 +20,7 @@ APAC-wide, and found a consistent 1.45-point quality gap between food and rider 
 Includes multilingual keyword analysis (English, Malay, Chinese) and a J-shaped
 rating distribution finding. Published on Tableau Public.
 
-🔗 [View Repository](https://github.com/JuniorK96/foodpanda-apac-feedback-analysis)
+🔗 [View Repository](https://github.com/JuniorK96/foodpanda-apac-customer-feedback-analysis)
 
 ---
 
