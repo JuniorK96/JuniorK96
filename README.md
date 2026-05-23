@@ -1,6 +1,6 @@
 # Hi, I'm Junior 👋
 
-I'm a Singapore-based professional transitioning into data analytics, having recently completed my Google Data Analytics and Google AI Professional certifications. I pair 5+ years of cross-border operational coordination across APAC with a growing portfolio of self-directed analytics projects. I don't just build dashboards — I understand the operations behind them, which helps me ask the right questions of the data.
+I'm a Operation professional transitioning into data analytics, having recently completed my Google Data Analytics and Google AI Professional certifications. I pair 5+ years of cross-border operational coordination across APAC with a growing portfolio of self-directed analytics projects. I don't just build dashboards — I understand the operations behind them, which helps me ask the right questions of the data.
 
 ## 🛠️ Tools & Skills
 
